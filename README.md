@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project has moved to the main portfolio repository: [Portfolio Projects](https://github.com/nicholemunlawin/portfolio-projects/tree/main/python-projects/url-shortener-project). This repository is archived and kept for history/reference.
+
 # URL Shortener Project
 
 A simple beginner-friendly Python 3 command-line URL shortener.
